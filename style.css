@@ -1,0 +1,47 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to right,rgb(87, 87, 214),rgb(132, 132, 185));
+}
+.sec{
+    margin-top: 150px;
+    margin-left: 90px;
+}
+.h1
+{
+    color: white;
+   
+}
+.h2{
+    color: yellow;
+
+}
+
+.search
+{
+   height: 50px;
+   width: 400px;
+}
+.text{
+    margin-top: 10px;
+    font-size: 20px;
+    color: white;
+    display: none;
+}
+#calculate{
+    background-color: yellow;
+    width: 130px;
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+    margin-left: 10px;
+}
+.date{
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+}
+#calculate:hover{
+    cursor: pointer;
+}
